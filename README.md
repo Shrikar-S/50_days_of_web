@@ -5,6 +5,7 @@
 
 - [1. Expanding Cards](1-expanding-cards)
 - [2. Progress Steps](2-progress-steps)
+- [3. Rotating Navigation](3-rotating-navigation)
 
 
 
@@ -16,3 +17,7 @@
 ## 2 Progress Steps
 
 ![steps](./Progress_Steps/ProgressSteps.gif)
+
+## 3 Rotating Navigation
+
+![rotate](./Rotating_Navigation/RotatingNavigation.gif)
