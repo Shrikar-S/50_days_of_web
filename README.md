@@ -3,9 +3,10 @@
 
 **Contents**
 
-- [1 Expanding Cards](1-expanding-cards)
-- [2 Progress Steps](2-progress-steps)
-- [3 Rotating Navigation](3-rotating-navigation)
+- [1. Expanding Cards](1-expanding-cards)
+- [2. Progress Steps](2-progress-steps)
+- [3. Rotating Navigation](3-rotating-navigation)
+- [4. Hidden Search](4-hidden-search)
 
 
 
@@ -21,3 +22,7 @@
 ## 3 Rotating Navigation
 
 ![rotate](./Rotating_Navigation/RotatingNavigation.gif)
+
+## 4 Hidden Search
+
+![search](./Hidden_Search/HiddenSearch.gif)
