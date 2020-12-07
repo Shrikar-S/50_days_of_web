@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+.bg{
+    background: url(https://applemagazine.com/wp-content/uploads/2019/10/image.jpg) no-repeat center center/cover;
+    top: -30px;
+    left: -30px;
+    position: absolute;
+    width: calc(100vw + 60px);
+    height: calc(100vh + 60px);
+    z-index: -1;
+    filter: blur(0px);
+}
+.loading-text{
+    font-size: 50px;
+    color: white;
+
+}
