@@ -7,6 +7,7 @@
 - [2. Progress Steps](2-progress-steps)
 - [3. Rotating Navigation](3-rotating-navigation)
 - [4. Hidden Search](4-hidden-search)
+- [5. Blurry Loading](5-blurry-loading)
 
 
 
@@ -26,3 +27,7 @@
 ## 4 Hidden Search
 
 ![search](./Hidden_Search/HiddenSearch.gif)
+
+## 5 Blurry Loading
+
+![blur](./Blurry_loading/loadingsearch.gif)
