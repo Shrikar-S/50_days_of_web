@@ -8,6 +8,7 @@
 - [3. Rotating Navigation](3-rotating-navigation)
 - [4. Hidden Search](4-hidden-search)
 - [5. Blurry Loading](5-blurry-loading)
+- [6. Scroll Animation](6-scroll-animation)
 
 
 
@@ -31,3 +32,7 @@
 ## 5 Blurry Loading
 
 ![blur](./Blurry_loading/loadingsearch.gif)
+
+## 6 Scroll Animation
+
+![scroll](./Scroll_Animation/scroll.gif)
