@@ -9,6 +9,7 @@
 - [4. Hidden Search](4-hidden-search)
 - [5. Blurry Loading](5-blurry-loading)
 - [6. Scroll Animation](6-scroll-animation)
+- [7. Split Landing Page](7-split-landing-page)
 
 
 
@@ -36,3 +37,7 @@
 ## 6 Scroll Animation
 
 ![scroll](./Scroll_Animation/scroll.gif)
+
+## 7 Split Landing Page
+
+![split](./Split-Landing/split.gif)
