@@ -45,4 +45,4 @@
 
 ## 8 Form Wave Animation
 
-![wave](.From_Wave/wave.gif)
+![wave](./From_Wave/wave.gif)
