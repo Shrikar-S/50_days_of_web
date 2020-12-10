@@ -10,6 +10,7 @@
 - [5. Blurry Loading](5-blurry-loading)
 - [6. Scroll Animation](6-scroll-animation)
 - [7. Split Landing Page](7-split-landing-page)
+- [8. Form Wave Animation](8-form-wave-animation)
 
 
 
@@ -41,3 +42,7 @@
 ## 7 Split Landing Page
 
 ![split](./Split-Landing/split.gif)
+
+## 8 Form Wave Animation
+
+![wave](.From_Wave/wave.gif)
