@@ -11,6 +11,7 @@
 - [6. Scroll Animation](6-scroll-animation)
 - [7. Split Landing Page](7-split-landing-page)
 - [8. Form Wave Animation](8-form-wave-animation)
+- [9. Dad jokes Using Fetch Api](9-dad-jokes-using-fetch-api)
 
 
 
@@ -46,3 +47,7 @@
 ## 8 Form Wave Animation
 
 ![wave](./Form_Wave/wave.gif)
+
+## 9 Dad Jokes
+
+![jokes](./Dad_Jokes/jokes.gif)
